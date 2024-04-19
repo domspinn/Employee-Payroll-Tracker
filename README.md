@@ -1,1 +1,3 @@
 # Employee-Payroll-Tracker
+
+The employee payroll tracker website is a site that collects information from one or more people. The information consists of three questions asking for first name, last name and annual income. Orginally this site did not work as expected. I added javascript code to for user data to be collected allow from prompts that pop up on the browser. I then completed the other parts of the acceptance criteria by creating variables inside of their designated functions that complete certain tasks like averaging the incomes and picking a winner that is displayed in the console.
